@@ -133,12 +133,12 @@ body{
 
 .app-download:nth-child(1){
     width: 80%;
-    background-image: url('/images/get_it_app_store.png');
+    background-image: url('images/get_it_app_store.png');
 }
 
 .app-download:nth-child(2){
     width: 90%;
-    background-image: url('/images/get_it_google_play.png');
+    background-image: url('images/get_it_google_play.png');
 }
 
 /* media queries */
